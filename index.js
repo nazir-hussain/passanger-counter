@@ -15,10 +15,5 @@ function save() {
 }
 
 
-function increment() {
-    count = count + 1
-    countEl.innerText = count
-}
-
 
 console.log("Let's count people on the subway!")
